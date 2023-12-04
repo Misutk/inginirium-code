@@ -5,5 +5,5 @@ def askpasw():
         if p == password:
             print("rait")
             return
-    print("щтказ")
+    print("oтказ")
 askpasw()
