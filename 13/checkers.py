@@ -1,4 +1,7 @@
 import tkinter as tk
+import pygame
+pygame.init()
+pygame.display.set_mode((600,400))
 
 
 def get_tipe(tag):
